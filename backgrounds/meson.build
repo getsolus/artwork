@@ -1,11 +1,10 @@
 # Current wallpaper set
 
 wallpapers = [
+    'A-Colorful-Chaos.jpg',
     'Athlone-Shannon-1920x1080.png',
     'BogFlower.jpg',
-    'book.png',
     'BrittasLake.jpg',
-    'chalk.jpeg',
     'Cliffs_of_Moher.png',
     'Crags.png',
     'Excl_Autumn_Leaf.jpg',
@@ -20,20 +19,20 @@ wallpapers = [
     'IMG_0604-solus.JPG',
     'IMG_0608-solus.JPG',
     'IMG_0609-solus.JPG',
-    'IMG_9710.png',
     'IMG_9656.png',
+    'IMG_9710.png',
     'LegendaryBarrels.jpg',
     'Mama.jpg',
-    'matador-rocks.jpg',
     'Path.jpg',
     'PubSide.jpg',
     'ShannonClonmacnoise.jpg',
-    'Solus-2016-abstract1-1920x1080.jpg',
-    'Solus-2016UltraBlur-1920x1080.jpg',
     'SolusFresh.png',
     'TulipBee.jpg',
     'TullamoreGrandCanal.jpg',
     'Twigonometry.jpg',
+    'book.png',
+    'chalk.jpeg',
+    'matador-rocks.jpg',
 ]
 
 wallpaper_dir = join_paths(path_datadir, 'backgrounds', 'solus')
@@ -47,7 +46,7 @@ install_data(
 cdata = configuration_data()
 cdata.set('prefix', path_prefix)
 
-# GNOME/Budgie Wallpaper definition
+# Primary Wallpaper Definition
 gnome_background_dir = join_paths(path_datadir, 'gnome-background-properties')
 configure_file(
     input: 'solus-wallpapers.xml.in',
@@ -59,7 +58,7 @@ configure_file(
 # MATE Wallpaper definition
 mate_background_dir = join_paths(path_datadir, 'mate-background-properties')
 configure_file(
-    input: 'solus-wallpapers-mate.xml.in',
+    input: 'solus-wallpapers.xml.in',
     output: 'solus-wallpapers-mate.xml',
     configuration: cdata,
     install_dir: mate_background_dir,

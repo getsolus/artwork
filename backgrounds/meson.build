@@ -1,7 +1,6 @@
 # Current wallpaper set
 
 wallpapers = [
-    'A-Colorful-Chaos.jpg',
     'Athlone-Shannon-1920x1080.png',
     'BogFlower.jpg',
     'BrittasLake.jpg',
@@ -30,6 +29,7 @@ wallpapers = [
     'TulipBee.jpg',
     'TullamoreGrandCanal.jpg',
     'Twigonometry.jpg',
+	'a-colorful-chaos.jpg',
     'book.png',
     'chalk.jpeg',
     'matador-rocks.jpg',

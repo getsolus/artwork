@@ -29,7 +29,7 @@ wallpapers = [
     'TulipBee.jpg',
     'TullamoreGrandCanal.jpg',
     'Twigonometry.jpg',
-	'a-colorful-chaos.jpg',
+    'a-colorful-chaos.jpg',
     'book.png',
     'chalk.jpeg',
     'matador-rocks.jpg',

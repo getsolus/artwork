@@ -154,6 +154,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>LakeSideView</name>
+    <filename>@prefix@/share/backgrounds/solus/LakeSideView.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Legendary Barrels, Tullamore</name>
     <filename>@prefix@/share/backgrounds/solus/LegendaryBarrels.jpg</filename>
     <options>zoom</options>

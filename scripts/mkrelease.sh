@@ -2,7 +2,7 @@
 set -e
 
 # Bump in tandem with meson.build, run script once new tag is up.
-VERSION="22"
+VERSION="23"
 
 NAME="artwork"
 git-archive-all --format tar --prefix ${NAME}-${VERSION}/ --verbose -t HEAD ${NAME}-${VERSION}.tar

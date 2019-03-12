@@ -1,7 +1,9 @@
 # Current wallpaper set
 
 wallpapers = [
+    'AerialDesert.jpg',
     'Athlone-Shannon-1920x1080.png',
+    'BluePeaks.jpg',
     'BogFlower.jpg',
     'BrittasLake.jpg',
     'Cliffs_of_Moher.png',
@@ -20,6 +22,7 @@ wallpapers = [
     'IMG_0609-solus.JPG',
     'IMG_9656.png',
     'IMG_9710.png',
+    'LakeSideView.jpg',
     'LegendaryBarrels.jpg',
     'Mama.jpg',
     'Path.jpg',

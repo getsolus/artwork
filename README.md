@@ -5,6 +5,8 @@
 Solus Artwork contains many backgrounds graciously provided by the community for the purposes of inclusion into Solus. Please see the below listing for the appropriate credits and licensing information:
 
 - Except when declared otherwise, the majority of the photo images in `backgrounds/` have been kindly provided by John McCormack for inclusion into Solus. We are incredibly grateful for the beautiful images he has provided.
+- AerialDesert.jpg is provided by [NASA](https://unsplash.com/photos/whDrFMucHkc) and licensed under [Unsplash License](https://unsplash.com/license).
+- BluePeaks.jpg is provided by [Fabrizio Conti](https://unsplash.com/photos/k6GpdsPJSZw) and licensed under [Unsplash License](https://unsplash.com/license).
 - SolusFresh.png, book.png, and chalk.jpeg were kindly provided by Alejandro Seoane and are available under the main package license, GPL-2.0.
 - HermiteCrab2560x1600.jpg is kindly provided by Dirk Hohndel and is available under the CC-BY-3.0 license: https://creativecommons.org/licenses/by/3.0/us/
 - `Excl_*.jpg` photographs are copyright (© 2016-2019) of Marius Nester, and are availably exclusively for the Solus project per prior agreement. These may only be distributed as part of the official Solus release medium. All rights reserved.

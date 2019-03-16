@@ -281,5 +281,13 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+  <wallpaper deleted="false">
+    <name>The-devils-bridge</name>
+    <filename>@prefix@/share/backgrounds/solus/the-devils-bridge.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
 </wallpapers>
 			

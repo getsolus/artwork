@@ -36,6 +36,7 @@ wallpapers = [
     'book.png',
     'chalk.jpeg',
     'matador-rocks.jpg',
+    'the-devils-bridge.jpg',
 ]
 
 wallpaper_dir = join_paths(path_datadir, 'backgrounds', 'solus')

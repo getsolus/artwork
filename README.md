@@ -13,7 +13,8 @@ Solus Artwork contains many backgrounds graciously provided by the community for
 - `Excl_*.jpg` photographs are copyright (© 2016-2019) of Marius Nester, and are availably exclusively for the Solus project per prior agreement. These may only be distributed as part of the official Solus release medium. All rights reserved.
 - `IMG_9656.png` and `IMG_9710.png` © 2018-2019 Reetta Piiroinen. These may only be distributed as part of the official Solus release medium.
 - `a-colorful-chaos.jpg` is provided by [Joel Filipe](https://unsplash.com/photos/k8apfKm-Md4) and licensed under [Unsplash License](https://unsplash.com/license).
-- `matador-rocks.jpg` is provided by Mica Semrick and is licensed [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- `matador-rocks.jpg` is provided by Mica Semrick and is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- `the-devils-bridge.jpg` is provided by A.Landgraf and is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Branding and Logos 
 

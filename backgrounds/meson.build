@@ -69,10 +69,6 @@ configure_file(
 )
 
 # PLASMA Wallpaper definition
-plasma_background_dir = join_paths(path_datadir, 'wallpapers')
-configure_file(
-    input: 'solus-wallpapers.xml.in',
-    output: 'solus-wallpapers-plasma.xml',
-    configuration: cdata,
-    install_dir: plasma_background_dir,
+plasma_background_dir = join_paths(path_datadir, 'backgrounds', 'solus')
+
 )

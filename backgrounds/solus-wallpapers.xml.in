@@ -226,6 +226,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Snow-Topped-Trees</name>
+    <filename>@prefix@/share/backgrounds/solus/Snow-Topped-Trees.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>SolusFresh</name>
     <filename>@prefix@/share/backgrounds/solus/SolusFresh.png</filename>
     <options>zoom</options>

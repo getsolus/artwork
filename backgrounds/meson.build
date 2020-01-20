@@ -29,6 +29,7 @@ wallpapers = [
     'Pines.jpg',
     'PubSide.jpg',
     'ShannonClonmacnoise.jpg',
+    'Snow-Topped-Trees.jpg',
     'SolusFresh.png',
     'TulipBee.jpg',
     'TullamoreGrandCanal.jpg',

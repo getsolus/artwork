@@ -18,7 +18,7 @@ Solus Artwork contains many backgrounds graciously provided by the community for
 
 ## Branding and Logos 
 
-- Copyright © 2015-2019 Solus Project.
+- Copyright © 2015-2020 Solus Project.
 - The contents of `icons/` and the Solus logo itself is Copyright © 2016-2019 Solus Project. All Rights Reserved.
 
 ## Tooling

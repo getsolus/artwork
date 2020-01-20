@@ -8,7 +8,9 @@ Solus Artwork contains many backgrounds graciously provided by the community for
 - AerialDesert.jpg is provided by [NASA](https://unsplash.com/photos/whDrFMucHkc) and licensed under [Unsplash License](https://unsplash.com/license).
 - BluePeaks.jpg is provided by [Fabrizio Conti](https://unsplash.com/photos/k6GpdsPJSZw) and licensed under [Unsplash License](https://unsplash.com/license).
 - LakeSideView.jpg is provided by [Jake Hills](https://unsplash.com/photos/mI02K_LxlfU) and licensed under [Unsplash License](https://unsplash.com/license).
+- Peeks.jpg is a modified wallpaper from [Pexels](https://www.pexels.com/photo/green-pine-trees-covered-with-fogs-under-white-sky-during-daytime-167699/) and is licensed under the [Pexels License](https://www.pexels.com/photo-license/).
 - SolusFresh.png, book.png, and chalk.jpeg were kindly provided by Alejandro Seoane and are available under the main package license, GPL-2.0.
+- Snow-Topped-Trees.jpg is a modified wallpaper from [Pexels](https://www.pexels.com/photo/aerial-photography-of-trees-1438761/) and is licensed under the [Pexels License](https://www.pexels.com/photo-license/).
 - HermiteCrab2560x1600.jpg is kindly provided by Dirk Hohndel and is available under the CC-BY-3.0 license: https://creativecommons.org/licenses/by/3.0/us/
 - `Excl_*.jpg` photographs are copyright (© 2016-2019) of Marius Nester, and are availably exclusively for the Solus project per prior agreement. These may only be distributed as part of the official Solus release medium. All rights reserved.
 - `IMG_9656.png` and `IMG_9710.png` © 2018-2019 Reetta Piiroinen. These may only be distributed as part of the official Solus release medium.

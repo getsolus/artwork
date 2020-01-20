@@ -38,6 +38,7 @@ wallpapers = [
     'book.png',
     'chalk.jpeg',
     'matador-rocks.jpg',
+    'river-and-mountains.jpg',
     'the-devils-bridge.jpg',
 ]
 

@@ -16,6 +16,7 @@ Solus Artwork contains many backgrounds graciously provided by the community for
 - `IMG_9656.png` and `IMG_9710.png` © 2018-2019 Reetta Piiroinen. These may only be distributed as part of the official Solus release medium.
 - `a-colorful-chaos.jpg` is provided by [Joel Filipe](https://unsplash.com/photos/k8apfKm-Md4) and licensed under [Unsplash License](https://unsplash.com/license).
 - `matador-rocks.jpg` is provided by Mica Semrick and is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- river-and-mountains.jpg is provided by [Tony Reid](https://unsplash.com/photos/UMJUr3st0AE) and is licensed under [Unsplash License](https://unsplash.com/license).
 - `the-devils-bridge.jpg` is provided by A.Landgraf and is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Branding and Logos 

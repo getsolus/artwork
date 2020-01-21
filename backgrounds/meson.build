@@ -26,8 +26,10 @@ wallpapers = [
     'LegendaryBarrels.jpg',
     'Mama.jpg',
     'Path.jpg',
+    'Pines.jpg',
     'PubSide.jpg',
     'ShannonClonmacnoise.jpg',
+    'Snow-Topped-Trees.jpg',
     'SolusFresh.png',
     'TulipBee.jpg',
     'TullamoreGrandCanal.jpg',
@@ -36,6 +38,7 @@ wallpapers = [
     'book.png',
     'chalk.jpeg',
     'matador-rocks.jpg',
+    'river-and-mountains.jpg',
     'the-devils-bridge.jpg',
 ]
 

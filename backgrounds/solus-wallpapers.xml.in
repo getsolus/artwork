@@ -202,6 +202,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Pines</name>
+    <filename>@prefix@/share/backgrounds/solus/Pines.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Pub Side, Tullamore</name>
     <filename>@prefix@/share/backgrounds/solus/PubSide.jpg</filename>
     <options>zoom</options>
@@ -212,6 +220,14 @@
   <wallpaper deleted="false">
     <name>Clonmacnoise, Shannon</name>
     <filename>@prefix@/share/backgrounds/solus/ShannonClonmacnoise.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Snow-Topped-Trees</name>
+    <filename>@prefix@/share/backgrounds/solus/Snow-Topped-Trees.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -282,6 +298,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>River and Mountains</name>
+    <filename>@prefix@/share/backgrounds/solus/river-and-mountains.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>The-devils-bridge</name>
     <filename>@prefix@/share/backgrounds/solus/the-devils-bridge.jpg</filename>
     <options>zoom</options>
@@ -290,4 +314,4 @@
     <shade_type>solid</shade_type>
   </wallpaper>
 </wallpapers>
-			
+

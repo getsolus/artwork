@@ -290,6 +290,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Forest-street</name>
+    <filename>@prefix@/share/backgrounds/solus/forest-street.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>El Matador Rocks</name>
     <filename>@prefix@/share/backgrounds/solus/matador-rocks.jpg</filename>
     <options>zoom</options>
@@ -298,7 +306,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>River and Mountains</name>
+    <name>River-and-mountains</name>
     <filename>@prefix@/share/backgrounds/solus/river-and-mountains.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -314,4 +322,4 @@
     <shade_type>solid</shade_type>
   </wallpaper>
 </wallpapers>
-
+			

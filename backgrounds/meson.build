@@ -15,6 +15,7 @@ wallpapers = [
     'Excl_Lazy_Summer_Leaf.jpg',
     'Excl_Lonely_Railway.jpg',
     'Excl_Vintage_Bicycles.jpg',
+    'forest-street.jpg',
     'HermiteCrab2560x1600.jpg',
     'IMG_0597-solus.JPG',
     'IMG_0604-solus.JPG',

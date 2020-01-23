@@ -18,6 +18,7 @@ Solus Artwork contains many backgrounds graciously provided by the community for
 - `matador-rocks.jpg` is provided by Mica Semrick and is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - river-and-mountains.jpg is provided by [Tony Reid](https://unsplash.com/photos/UMJUr3st0AE) and is licensed under [Unsplash License](https://unsplash.com/license).
 - `the-devils-bridge.jpg` is provided by A.Landgraf and is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- forest-street is a modified wallpaper from [Pexels](https://www.pexels.com/photo/forest-pathways-photo-1996051/) and is licensed under the [Pexels License](https://www.pexels.com/photo-license/).
 
 ## Branding and Logos 
 

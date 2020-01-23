@@ -71,8 +71,3 @@ configure_file(
     configuration: cdata,
     install_dir: mate_background_dir,
 )
-
-# PLASMA Wallpaper definition
-plasma_background_dir = join_paths(path_datadir, 'backgrounds', 'solus')
-
-)

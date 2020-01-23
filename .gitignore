@@ -1,2 +1,3 @@
 artwork-*.tar*
+build/
 tooling/generate-wallpaper

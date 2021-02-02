@@ -6,6 +6,7 @@ wallpapers = [
     'BluePeaks.jpg',
     'BogFlower.jpg',
     'BrittasLake.jpg',
+    'Celeste.jpg',
     'Cliffs_of_Moher.png',
     'Crags.png',
     'Excl_Autumn_Leaf.jpg',

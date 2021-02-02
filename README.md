@@ -7,6 +7,7 @@ Solus Artwork contains many backgrounds graciously provided by the community for
 - Except when declared otherwise, the majority of the photo images in `backgrounds/` have been kindly provided by John McCormack for inclusion into Solus. We are incredibly grateful for the beautiful images he has provided.
 - AerialDesert.jpg is provided by [NASA](https://unsplash.com/photos/whDrFMucHkc) and licensed under [Unsplash License](https://unsplash.com/license).
 - BluePeaks.jpg is provided by [Fabrizio Conti](https://unsplash.com/photos/k6GpdsPJSZw) and licensed under [Unsplash License](https://unsplash.com/license).
+- Celeste.jpg is a modified wallpaper, originally sourced from [Paweł Czerwiński](https://unsplash.com/photos/SoB70WFVWGU) and licensed under [Unsplash License](https://unsplash.com/license).
 - LakeSideView.jpg is provided by [Jake Hills](https://unsplash.com/photos/mI02K_LxlfU) and licensed under [Unsplash License](https://unsplash.com/license).
 - Peeks.jpg is a modified wallpaper from [Pexels](https://www.pexels.com/photo/green-pine-trees-covered-with-fogs-under-white-sky-during-daytime-167699/) and is licensed under the [Pexels License](https://www.pexels.com/photo-license/).
 - SolusFresh.png, book.png, and chalk.jpeg were kindly provided by Alejandro Seoane and are available under the main package license, GPL-2.0.
@@ -22,7 +23,7 @@ Solus Artwork contains many backgrounds graciously provided by the community for
 
 ## Branding and Logos 
 
-- Copyright © 2015-2020 Solus Project.
+- Copyright © 2015-2021 Solus Project.
 - The contents of `icons/` and the Solus logo itself is Copyright © 2016-2019 Solus Project. All Rights Reserved.
 
 ## Tooling

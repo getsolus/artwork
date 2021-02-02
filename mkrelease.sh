@@ -6,7 +6,7 @@ meson --prefix /usr build
 ninja dist -C build
 
 # Bump in tandem with meson.build, run script once new tag is up.
-VERSION="27"
+VERSION=$(grep "version:" meson.build | head -n1 | cut -d"'" -f2)
 TAR="artwork-${VERSION}.tar.xz"
 mv build/meson-dist/$TAR .
 

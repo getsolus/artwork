@@ -22,7 +22,6 @@ foreach icon_size : icon_sizes
     icons = [
         '@0@/distributor-logo-solus@1@'.format(icon_size, suffix),
         '@0@/start-here-solus@1@'.format(icon_size, suffix),
-        '@0@/start-here-solus-mono@1@'.format(icon_size, suffix),
     ]
     target_dir = join_paths(icons_dir, icon_size, 'places')
     install_data(
@@ -31,6 +30,7 @@ foreach icon_size : icon_sizes
     )
 endforeach
 
+install_data(['scalable/start-here-solus-mono.svg',], install_dir: join_paths(icons_dir, 'scalable', 'places'))
 
 # Install the mimetypes icons
 foreach icon_size : icon_sizes

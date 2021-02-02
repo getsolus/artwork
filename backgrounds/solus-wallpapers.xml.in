@@ -50,14 +50,6 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Cliffs of Moher</name>
-    <filename>@prefix@/share/backgrounds/solus/Cliffs_of_Moher.png</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>Crags</name>
     <filename>@prefix@/share/backgrounds/solus/Crags.png</filename>
     <options>zoom</options>
@@ -180,14 +172,6 @@
   <wallpaper deleted="false">
     <name>LakeSideView</name>
     <filename>@prefix@/share/backgrounds/solus/LakeSideView.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Legendary Barrels, Tullamore</name>
-    <filename>@prefix@/share/backgrounds/solus/LegendaryBarrels.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>

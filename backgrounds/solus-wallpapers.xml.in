@@ -282,6 +282,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Dazzle</name>
+    <filename>@prefix@/share/backgrounds/solus/dazzle.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Forest-street</name>
     <filename>@prefix@/share/backgrounds/solus/forest-street.jpg</filename>
     <options>zoom</options>

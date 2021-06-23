@@ -16,7 +16,7 @@ Solus Artwork contains many backgrounds graciously provided by the community for
 - `Excl_*.jpg` photographs are copyright (© 2016-2019) of Marius Nester, and are available exclusively for the Solus project per prior agreement. These may only be distributed as part of the official Solus release medium. All rights reserved.
 - `IMG_9656.png` and `IMG_9710.png` © 2018-2019 Reetta Piiroinen. These may only be distributed as part of the official Solus release medium.
 - `a-colorful-chaos.jpg` is provided by [Joel Filipe](https://unsplash.com/photos/k8apfKm-Md4) and licensed under [Unsplash License](https://unsplash.com/license).
-- `camino-beach.jpg` is provided by [Claudio Schwarz](https://unsplash.com/photos/kxAaw2bO1Z8) and licensed under [Unsplash License](https://unsplash.com/license).
+- `camilo-beach.jpg` is provided by [Claudio Schwarz](https://unsplash.com/photos/kxAaw2bO1Z8) and licensed under [Unsplash License](https://unsplash.com/license).
 - `cloud-covered-mountains.jpg` is provided by [Nick Saxby](https://unsplash.com/photos/HFbnIMpYbcc) and licensed under [Unsplash License](https://unsplash.com/license).
 - `dazzle.jpg` is provided by [Jot](https://linktr.ee/mustang164) for inclusion into Solus.
 - `matador-rocks.jpg` is provided by Mica Semrick and is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).

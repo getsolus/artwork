@@ -1,7 +1,7 @@
 project(
     'artwork',
     ['c'],
-    version: '28',
+    version: '29',
     license: [
         'CC-BY-3.0 ',
         'CC-BY-SA-4.0',

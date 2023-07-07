@@ -282,6 +282,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Cefn Sidan</name>
+    <filename>@prefix@/share/backgrounds/solus/cefn-sidan.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Chalk</name>
     <filename>@prefix@/share/backgrounds/solus/chalk.jpeg</filename>
     <options>zoom</options>
@@ -308,6 +316,14 @@
   <wallpaper deleted="false">
     <name>Forest-street</name>
     <filename>@prefix@/share/backgrounds/solus/forest-street.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Pembrey Harbour</name>
+    <filename>@prefix@/share/backgrounds/solus/harbwr-penbre.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -346,4 +362,3 @@
     <shade_type>solid</shade_type>
   </wallpaper>
 </wallpapers>
-			

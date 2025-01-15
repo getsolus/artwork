@@ -17,10 +17,10 @@ Solus Artwork contains many backgrounds graciously provided by the community for
 - `IMG_9656.png` and `IMG_9710.png` © 2018-2019 Reetta Piiroinen. These may only be distributed as part of the official Solus release medium.
 - `a-colorful-chaos.jpg` is provided by [Joel Filipe](https://unsplash.com/photos/k8apfKm-Md4) and licensed under [Unsplash License](https://unsplash.com/license).
 - `camilo-beach.jpg` is provided by [Claudio Schwarz](https://unsplash.com/photos/kxAaw2bO1Z8) and licensed under [Unsplash License](https://unsplash.com/license).
-- `cefn-sidan.jpg` is provided by Joseph Riches @joebonrichie and licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- `cefn-sidan.jpg` is provided by [Joseph Riches](https://github.com/joebonrichie) and licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - `cloud-covered-mountains.jpg` is provided by [Nick Saxby](https://unsplash.com/photos/HFbnIMpYbcc) and licensed under [Unsplash License](https://unsplash.com/license).
 - `dazzle.jpg` is provided by [Jot](https://linktr.ee/mustang164) for inclusion into Solus.
-- `harbwr-penbre.jpg` is provided by Joseph Riches @joebonrichie and licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- `harbwr-penbre.jpg` is provided by [Joseph Riches](https://github.com/joebonrichie) and licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - `matador-rocks.jpg` is provided by Mica Semrick and is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - river-and-mountains.jpg is provided by [Tony Reid](https://unsplash.com/photos/UMJUr3st0AE) and is licensed under [Unsplash License](https://unsplash.com/license).
 - `the-devils-bridge.jpg` is provided by A.Landgraf and is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).

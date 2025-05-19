@@ -3,7 +3,7 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>AerialDesert</name>
-    <filename>@prefix@/share/backgrounds/solus/AerialDesert.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/AerialDesert.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -19,7 +19,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>BluePeaks</name>
-    <filename>@prefix@/share/backgrounds/solus/BluePeaks.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/BluePeaks.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -27,7 +27,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>BogFlower</name>
-    <filename>@prefix@/share/backgrounds/solus/BogFlower.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/BogFlower.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -35,7 +35,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>BrittasLake</name>
-    <filename>@prefix@/share/backgrounds/solus/BrittasLake.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/BrittasLake.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -43,7 +43,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Celeste</name>
-    <filename>@prefix@/share/backgrounds/solus/Celeste.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/Celeste.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -59,7 +59,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Autumn Leaf</name>
-    <filename>@prefix@/share/backgrounds/solus/Excl_Autumn_Leaf.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/Excl_Autumn_Leaf.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -67,7 +67,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Autumn Retreat</name>
-    <filename>@prefix@/share/backgrounds/solus/Excl_Autumn_Retreat.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/Excl_Autumn_Retreat.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -75,7 +75,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Focal Leaf</name>
-    <filename>@prefix@/share/backgrounds/solus/Excl_Focal_Leaf.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/Excl_Focal_Leaf.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -83,7 +83,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Focal Spring</name>
-    <filename>@prefix@/share/backgrounds/solus/Excl_Focal_Spring.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/Excl_Focal_Spring.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -91,7 +91,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Lazy Summer Leaf</name>
-    <filename>@prefix@/share/backgrounds/solus/Excl_Lazy_Summer_Leaf.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/Excl_Lazy_Summer_Leaf.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -99,7 +99,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Lonely Railway</name>
-    <filename>@prefix@/share/backgrounds/solus/Excl_Lonely_Railway.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/Excl_Lonely_Railway.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -107,7 +107,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Vintage Bicycles</name>
-    <filename>@prefix@/share/backgrounds/solus/Excl_Vintage_Bicycles.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/Excl_Vintage_Bicycles.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -115,7 +115,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Hermite Crab (2560x1600)</name>
-    <filename>@prefix@/share/backgrounds/solus/HermiteCrab2560x1600.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/HermiteCrab2560x1600.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -123,7 +123,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>IMG_0597-solus</name>
-    <filename>@prefix@/share/backgrounds/solus/IMG_0597-solus.JPG</filename>
+    <filename>@prefix@/share/backgrounds/solus/IMG_0597-solus.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -131,7 +131,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>IMG_0604-solus</name>
-    <filename>@prefix@/share/backgrounds/solus/IMG_0604-solus.JPG</filename>
+    <filename>@prefix@/share/backgrounds/solus/IMG_0604-solus.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -139,7 +139,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>IMG_0608-solus</name>
-    <filename>@prefix@/share/backgrounds/solus/IMG_0608-solus.JPG</filename>
+    <filename>@prefix@/share/backgrounds/solus/IMG_0608-solus.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -147,7 +147,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>IMG_0609-solus</name>
-    <filename>@prefix@/share/backgrounds/solus/IMG_0609-solus.JPG</filename>
+    <filename>@prefix@/share/backgrounds/solus/IMG_0609-solus.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -171,7 +171,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>LakeSideView</name>
-    <filename>@prefix@/share/backgrounds/solus/LakeSideView.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/LakeSideView.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -179,7 +179,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Mama</name>
-    <filename>@prefix@/share/backgrounds/solus/Mama.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/Mama.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -187,7 +187,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Path</name>
-    <filename>@prefix@/share/backgrounds/solus/Path.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/Path.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -195,7 +195,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Pines</name>
-    <filename>@prefix@/share/backgrounds/solus/Pines.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/Pines.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -203,7 +203,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Pub Side, Tullamore</name>
-    <filename>@prefix@/share/backgrounds/solus/PubSide.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/PubSide.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -211,7 +211,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Clonmacnoise, Shannon</name>
-    <filename>@prefix@/share/backgrounds/solus/ShannonClonmacnoise.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/ShannonClonmacnoise.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -219,7 +219,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Snow-Topped-Trees</name>
-    <filename>@prefix@/share/backgrounds/solus/Snow-Topped-Trees.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/Snow-Topped-Trees.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -235,7 +235,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>TulipBee</name>
-    <filename>@prefix@/share/backgrounds/solus/TulipBee.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/TulipBee.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -243,7 +243,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Grand Canal, Tullamore</name>
-    <filename>@prefix@/share/backgrounds/solus/TullamoreGrandCanal.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/TullamoreGrandCanal.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -251,7 +251,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Twigonometry</name>
-    <filename>@prefix@/share/backgrounds/solus/Twigonometry.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/Twigonometry.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -259,7 +259,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>A-colorful-chaos</name>
-    <filename>@prefix@/share/backgrounds/solus/a-colorful-chaos.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/a-colorful-chaos.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -275,7 +275,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Camilo-beach</name>
-    <filename>@prefix@/share/backgrounds/solus/camilo-beach.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/camilo-beach.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -283,7 +283,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Cefn Sidan</name>
-    <filename>@prefix@/share/backgrounds/solus/cefn-sidan.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/cefn-sidan.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -291,7 +291,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Chalk</name>
-    <filename>@prefix@/share/backgrounds/solus/chalk.jpeg</filename>
+    <filename>@prefix@/share/backgrounds/solus/chalk.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -299,7 +299,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Cloud-covered-mountains</name>
-    <filename>@prefix@/share/backgrounds/solus/cloud-covered-mountains.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/cloud-covered-mountains.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -307,7 +307,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Dazzle</name>
-    <filename>@prefix@/share/backgrounds/solus/dazzle.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/dazzle.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -315,7 +315,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Forest-street</name>
-    <filename>@prefix@/share/backgrounds/solus/forest-street.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/forest-street.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -323,7 +323,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Pembrey Harbour</name>
-    <filename>@prefix@/share/backgrounds/solus/harbwr-penbre.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/harbwr-penbre.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -331,7 +331,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>El Matador Rocks</name>
-    <filename>@prefix@/share/backgrounds/solus/matador-rocks.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/matador-rocks.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -339,7 +339,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>River-and-mountains</name>
-    <filename>@prefix@/share/backgrounds/solus/river-and-mountains.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/river-and-mountains.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -347,7 +347,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>The-devils-bridge</name>
-    <filename>@prefix@/share/backgrounds/solus/the-devils-bridge.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/the-devils-bridge.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -355,7 +355,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Waves-of-blue</name>
-    <filename>@prefix@/share/backgrounds/solus/waves-of-blue.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/waves-of-blue.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>

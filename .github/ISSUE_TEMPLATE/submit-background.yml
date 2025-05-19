@@ -1,0 +1,34 @@
+name: Submit a background image
+description: Submit an image to be included in Solus artwork.
+labels: ["background submission"]
+title: "What's the title of the image?"
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+      description: URL to the source of the image
+      placeholder: https://www.example.com
+    validations:
+      required: true
+  - type: textarea
+    id: image
+    attributes:
+      label: Attach the image here
+      description: Make sure it is at least 3840x2160
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: Are we allowed to redistribute it?
+      description: We only allowed images licensed under CC0, Public Domain, CC BY, CC BY SA or Unsplash license
+    validations:
+      required: true
+  - type: textarea
+    id: users
+    attributes:
+      label: Why do you think this image should be included ?
+      placeholder: It looks cool to me
+    validations:
+      required: false

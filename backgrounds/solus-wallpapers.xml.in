@@ -11,7 +11,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Athlone, Shannon</name>
-    <filename>@prefix@/share/backgrounds/solus/Athlone-Shannon-1920x1080.png</filename>
+    <filename>@prefix@/share/backgrounds/solus/Athlone-Shannon-1920x1080.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -51,7 +51,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Crags</name>
-    <filename>@prefix@/share/backgrounds/solus/Crags.png</filename>
+    <filename>@prefix@/share/backgrounds/solus/Crags.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -154,16 +154,16 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>IMG_9656.png</name>
-    <filename>@prefix@/share/backgrounds/solus/IMG_9656.png</filename>
+    <name>IMG_9656</name>
+    <filename>@prefix@/share/backgrounds/solus/IMG_9656.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>IMG_9710.png</name>
-    <filename>@prefix@/share/backgrounds/solus/IMG_9710.png</filename>
+    <name>IMG_9710</name>
+    <filename>@prefix@/share/backgrounds/solus/IMG_9710.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -227,7 +227,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>SolusFresh</name>
-    <filename>@prefix@/share/backgrounds/solus/SolusFresh.png</filename>
+    <filename>@prefix@/share/backgrounds/solus/SolusFresh.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -267,7 +267,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Book</name>
-    <filename>@prefix@/share/backgrounds/solus/book.png</filename>
+    <filename>@prefix@/share/backgrounds/solus/book.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>

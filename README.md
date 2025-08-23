@@ -6,7 +6,7 @@ Solus Artwork provides the default set of backgrounds and icons for Solus.
 
 ## Backgrounds
 
-Solus Artwork contains many backgrounds graciously provided by the community for the purposes of inclusion into Solus. Please see `license/` for licensing details of each background.
+Solus Artwork contains many backgrounds graciously provided by the community for the purposes of inclusion into Solus. Please see [Attribution](Attribution) for licensing details of each background.
 
 ## Branding and Logos
 

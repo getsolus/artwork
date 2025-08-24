@@ -15,6 +15,7 @@ project(
 
 path_prefix = get_option('prefix')
 path_datadir = join_paths(path_prefix, get_option('datadir'))
+path_licensedir = join_paths(path_datadir, 'licenses', meson.project_name())
 
 subdir('backgrounds')
 subdir('icons')
@@ -29,3 +30,15 @@ report = [
 
 # Output some stuff to validate the build config
 message('\n\n\n' + '\n'.join(report) + '\n\n')
+
+# Install licenses and attribution
+license_files = [
+    'Attribution',
+    'GPL-2.0-only',
+    'CCBY-3.0',
+    'CCBY-SA-4.0',
+]
+
+install_data(license_files,
+    install_dir: path_licensedir
+)

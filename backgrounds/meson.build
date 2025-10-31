@@ -1,9 +1,22 @@
 # Current wallpaper set
 
 wallpapers = [
+  'boats-on-the-river.jpg',
+  'matador-rocks.jpg',
+  'mount-batok-java.jpg',
   'Twigonometry.jpg',
   'cefn-sidan.jpg',
-  'matador-rocks.jpg',
+  'milky-way.jpg',
+  'vents-du-sud.jpg',
+  'circumpolar-trails-sunset.jpg',
+  'red-cherry-leaves.jpg',
+  'wild-golden-eagle.jpg',
+  'exhibición-freestyle-gp.jpg',
+  'rosa-kent.jpg',
+  'lower-antelope-canyon.jpg',
+  'sebkha-d-oran.jpg',
+  'komodo-dragon.jpg',
+  'AS08-16-2593.jpg'
 ]
 
 wallpaper_dir = join_paths(path_datadir, 'backgrounds', 'solus')

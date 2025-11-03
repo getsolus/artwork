@@ -22,7 +22,7 @@ body:
     id: license
     attributes:
       label: Are we allowed to redistribute it?
-      description: We only allowed images licensed under CC0, Public Domain, CC BY, CC BY SA or Unsplash license
+      description: We only allowed images licensed under CC0, Public Domain, CC BY or CC BY SA
     validations:
       required: true
   - type: textarea

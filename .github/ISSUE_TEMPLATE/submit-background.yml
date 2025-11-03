@@ -1,7 +1,7 @@
 name: Submit a background image
 description: Submit an image to be included in Solus artwork.
 labels: ["background submission"]
-title: "What's the title of the image?"
+title: "Submission: title of the image"
 body:
   - type: input
     id: source

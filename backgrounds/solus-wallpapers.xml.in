@@ -2,131 +2,195 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
  <wallpaper deleted="false">
-    <name>Cefn Sidan</name>
-    <filename>@prefix@/share/backgrounds/solus/cefn-sidan.jxl</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>El Matador Rocks</name>
-    <filename>@prefix@/share/backgrounds/solus/matador-rocks.jxl</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Twigonometry</name>
-    <filename>@prefix@/share/backgrounds/solus/Twigonometry.jxl</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Boats on the River</name>
-    <filename>@prefix@/share/backgrounds/solus/boats-on-the-river.jxl</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Mount Batok, Java</name>
-    <filename>@prefix@/share/backgrounds/solus/mount-batok-java.jxl</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Milky Way</name>
-    <filename>@prefix@/share/backgrounds/solus/milky-way.jxl</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Vents du Sud</name>
-    <filename>@prefix@/share/backgrounds/solus/vents-du-sud.jxl</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Circumpolar Trails Sunset</name>
-    <filename>@prefix@/share/backgrounds/solus/circumpolar-trails-sunset.jxl</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Red Cherry Leaves</name>
-    <filename>@prefix@/share/backgrounds/solus/red-cherry-leaves.jxl</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Wild Golden Eagle</name>
-    <filename>@prefix@/share/backgrounds/solus/wild-golden-eagle.jxl</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Exhibición Freestyle GP</name>
-    <filename>@prefix@/share/backgrounds/solus/exhibición-freestyle-gp.jxl</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Rosa Kent</name>
-    <filename>@prefix@/share/backgrounds/solus/rosa-kent.jxl</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Lower Antelope Canyon</name>
-    <filename>@prefix@/share/backgrounds/solus/lower-antelope-canyon.jxl</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Sebkha D'Oran</name>
-    <filename>@prefix@/share/backgrounds/solus/sebkha-d-oran.jxl</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Komodo Dragon</name>
-    <filename>@prefix@/share/backgrounds/solus/komodo-dragon.jxl</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>AS08-16-2593</name>
     <filename>@prefix@/share/backgrounds/solus/AS08-16-2593.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
-  </wallpaper>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Bath Time</name>
+    <filename>@prefix@/share/backgrounds/solus/bath-time.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Blue Wallpaper</name>
+    <filename>@prefix@/share/backgrounds/solus/blue-wallpaper.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Boats on the River</name>
+    <filename>@prefix@/share/backgrounds/solus/boats-on-the-river.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Cefn Sidan</name>
+    <filename>@prefix@/share/backgrounds/solus/cefn-sidan.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Circumpolar Trails Sunset</name>
+    <filename>@prefix@/share/backgrounds/solus/circumpolar-trails-sunset.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Desert at Dusk</name>
+    <filename>@prefix@/share/backgrounds/solus/dessert-at-dusk.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Digital Art Background</name>
+    <filename>@prefix@/share/backgrounds/solus/digital-art-background.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Driftwood Throne</name>
+    <filename>@prefix@/share/backgrounds/solus/driftwood-throne.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Exhibición Freestyle GP</name>
+    <filename>@prefix@/share/backgrounds/solus/exhibición-freestyle-gp.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Green Glass Vase</name>
+    <filename>@prefix@/share/backgrounds/solus/green-glass-vase.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+     <name>Happy Turtle</name>
+     <filename>@prefix@/share/backgrounds/solus/happy-turtle.jxl</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+     <name>Komodo Dragon</name>
+     <filename>@prefix@/share/backgrounds/solus/komodo-dragon.jxl</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+   <name>Lower Antelope Canyon</name>
+   <filename>@prefix@/share/backgrounds/solus/lower-antelope-canyon.jxl</filename>
+   <options>zoom</options>
+   <pcolor>#000000</pcolor>
+   <scolor>#000000</scolor>
+   <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>El Matador Rocks</name>
+    <filename>@prefix@/share/backgrounds/solus/matador-rocks.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Milky Way</name>
+    <filename>@prefix@/share/backgrounds/solus/milky-way.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Mount Batok, Java</name>
+    <filename>@prefix@/share/backgrounds/solus/mount-batok-java.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Red Cherry Leaves</name>
+    <filename>@prefix@/share/backgrounds/solus/red-cherry-leaves.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Rosa Kent</name>
+    <filename>@prefix@/share/backgrounds/solus/rosa-kent.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Sebkha D'Oran</name>
+    <filename>@prefix@/share/backgrounds/solus/sebkha-d-oran.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Twigonometry</name>
+    <filename>@prefix@/share/backgrounds/solus/Twigonometry.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Vents du Sud</name>
+    <filename>@prefix@/share/backgrounds/solus/vents-du-sud.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>White and Multicolored Illustration</name>
+    <filename>@prefix@/share/backgrounds/solus/white-and-multicolored.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Wild Golden Eagle</name>
+    <filename>@prefix@/share/backgrounds/solus/wild-golden-eagle.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
 </wallpapers>

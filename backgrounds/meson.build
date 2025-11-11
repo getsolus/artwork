@@ -1,22 +1,30 @@
 # Current wallpaper set
 
 wallpapers = [
+  'AS08-16-2593.jpg',
+  'bath-time.jpg',
+  'blue-wallpaper.jpg',
   'boats-on-the-river.jpg',
-  'matador-rocks.jpg',
-  'mount-batok-java.jpg',
-  'Twigonometry.jpg',
   'cefn-sidan.jpg',
-  'milky-way.jpg',
-  'vents-du-sud.jpg',
   'circumpolar-trails-sunset.jpg',
-  'red-cherry-leaves.jpg',
-  'wild-golden-eagle.jpg',
+  'dessert-at-dusk.jpg',
+  'digital-art-background.jpg',
+  'driftwood-throne.jpg',
   'exhibición-freestyle-gp.jpg',
-  'rosa-kent.jpg',
-  'lower-antelope-canyon.jpg',
-  'sebkha-d-oran.jpg',
+  'green-glass-vase.jpg',
+  'happy-turtle.jpg',
   'komodo-dragon.jpg',
-  'AS08-16-2593.jpg'
+  'lower-antelope-canyon.jpg',
+  'matador-rocks.jpg',
+  'milky-way.jpg',
+  'mount-batok-java.jpg',
+  'red-cherry-leaves.jpg',
+  'rosa-kent.jpg',
+  'sebkha-d-oran.jpg',
+  'Twigonometry.jpg',
+  'vents-du-sud.jpg',
+  'white-and-multicolored.jpg',
+  'wild-golden-eagle.jpg',
 ]
 
 wallpaper_dir = join_paths(path_datadir, 'backgrounds', 'solus')

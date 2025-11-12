@@ -15,6 +15,7 @@ wallpapers = [
   'happy-turtle.jpg',
   'komodo-dragon.jpg',
   'lower-antelope-canyon.jpg',
+  'luxor-nile.jpg',
   'matador-rocks.jpg',
   'milky-way.jpg',
   'mount-batok-java.jpg',

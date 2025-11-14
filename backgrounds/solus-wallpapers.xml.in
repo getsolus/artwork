@@ -170,6 +170,22 @@
     <shade_type>solid</shade_type>
  </wallpaper>
  <wallpaper deleted="false">
+    <name>Solus Tiles Dark</name>
+    <filename>@prefix@/share/backgrounds/solus/solus-tiles-dark.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
+    <name>Solus Tiles Light</name>
+    <filename>@prefix@/share/backgrounds/solus/solus-tiles-light.jxl</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper deleted="false">
     <name>Twigonometry</name>
     <filename>@prefix@/share/backgrounds/solus/Twigonometry.jxl</filename>
     <options>zoom</options>

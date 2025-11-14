@@ -22,6 +22,8 @@ wallpapers = [
   'red-cherry-leaves.jpg',
   'rosa-kent.jpg',
   'sebkha-d-oran.jpg',
+  'solus-tiles-dark.jpg',
+  'solus-tiles-light.jpg',
   'Twigonometry.jpg',
   'vents-du-sud.jpg',
   'white-and-multicolored.jpg',
